@@ -1,0 +1,3 @@
+D:/Codigos_Estudo/C++/tinyRender/cmake-build-debug/CMakeFiles/tinyRender.dir
+D:/Codigos_Estudo/C++/tinyRender/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codigos_Estudo/C++/tinyRender/cmake-build-debug/CMakeFiles/rebuild_cache.dir
